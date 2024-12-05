@@ -1,3 +1,17 @@
 ---
 title: "Welcome To CGM-AP"
 ---
+
+INTRODUCTION TEXT
+
+## Survey to sign up
+
+<iframe src="URL TO SURVERYXACT">
+
+</iframe>
+
+## Video
+
+{{< video URL_TO_VIDEO >}}
+
+## FAQ
