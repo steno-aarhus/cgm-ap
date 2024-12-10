@@ -34,9 +34,9 @@ Tilmelding af lægeklinik **bold**
 Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland. Tilmelding sker efter først-til-mølle-princippet. For at sikre jeres plads, tilmeld jer derfor introduktionsmødet så hurtigt som muligt.
 
 
-## Survey to sign up
+## Tilmelding
 
-<iframe src="URL TO SURVERYXACT">
+<iframe src="https://www.survey-xact.dk/LinkCollector?key=NAF5AS23JP16">
 
 </iframe>
 
@@ -44,4 +44,45 @@ Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region
 
 {{< video URL_TO_VIDEO >}}
 
-## FAQ
+## Ofte stillede spørgsmål (FAQ)
+
+1. Hvad er inklusions- og eksklusionskriterierne for patienter i projektet? **bold**
+
+Svar: Patienter skal være over 18 år, have type 2-diabetes, HbA1c > 53 og bruge insulin eller have gavn af at starte behandling. Eksklusionskriterier inkluderer fx gravide, patienter der ikke har mulighed for at up-loade sensordata via deres telefon og patienter der fx bor på plejehjem/bosteder og ikke selv varetager insulinbehandlingen. Kriterierne vil blive præciseret ved introduktionsmødet.
+
+2. Hvordan rekrutteres patienter til projektet? **bold**
+
+Svar: Klinikken trækker en liste over patienter med HbA1c >53, der bruger insulin. Listen suppleres med patienter med HbA1c > 53, der kan have gavn af at starte insulinbehandling.
+Klinikken vurderer, ud fra in- og eksklusionskriterierne hvilke patienter der kunne have gavn af at afprøve CGM-sensoren. Klinikken kontakter patienterne og inviterer dem til deltagelse i afprøvningen. Der indhentes mundtligt samtykke til videregivelse af kontaktoplysninger, som noteres i patientens journal.
+
+3. Hvordan registreres og rapporteres data fra projektet? **bold**
+
+Svar: Lægen skal sikre at behandlingsmål registreres i journalen og at der foretages måling af Hba1c til ca. tid 6 mdr. og tid 12 mdr. Ved projektets afslutning skal data videregives til SDCA via et patientspecifikt link til REDCap samt via AGP-rapporter, der sendes med sikker post.
+
+4. Hvor meget tid kræver projektet af klinikken? **bold**
+
+Svar: Tidsforbruget omfatter rekruttering af patienter, deltagelse i introduktionsmøde, samt dataregistrering og rapportering. Den præcise tidsramme afhænger af klinikkens størrelse og antallet af patienter.
+
+5. Hvad sker der, hvis vi ikke når at rekruttere nok patienter? **bold**
+
+Svar: Hvis klinikken ikke når at rekruttere det ønskede antal patienter, vil der være en venteliste. Klinikker på venteliste i den enkelte region kan dermed få mulighed for at deltage, hvis andre klinikker i regionen ikke når deres mål.
+
+6. Hvordan håndteres tekniske problemer med CGM-sensorerne? **bold**
+
+Svar: Teknisk support vil være tilgængelig gennem projektet. Klinikken vil få instruktioner om, hvordan man kontakter supportteamet ved eventuelle problemer med sensorerne.
+
+7. Er der nogen omkostninger for klinikken? **bold**
+
+Svar: Der er ingen omkostninger for klinikken for selve CGM-sensorerne, og der vil blive givet økonomisk kompensation for ekstra administrative opgaver og dokumentation.
+
+8. Hvordan vil økonomisk kompensation blive udbetalt? **bold**
+
+Svar: Økonomisk kompensation udbetales baseret på antallet af patienter, der deltager i projektet, og dækker tid til rekruttering og dataindsamling. Nærmere detaljer om udbetalingsproceduren vil blive givet i oplæringssmødet og i samarbejdskontrakten.
+
+9. Hvad sker der, når projektperioden er slut? **bold**
+
+Svar: Når projektperioden er afsluttet, skal alle data overføres til SDCA via REDCap. Klinikkerne skal returnere eller destruere eventuelle resterende sensorer i henhold til de instruktioner, der gives ved projektets afslutning.
+
+10. Hvordan kan projektkoordinatoren kontaktes, hvis vi har spørgsmål undervejs? **bold**
+
+Svar: I kan kontakte projektkoordinator Tina Quist via e-mail på tina.quist@rm.dk eller telefonisk på 24 34 63 47. Tina er tilgængelig for at besvare spørgsmål og tilbyde støtte gennem hele projektet.
