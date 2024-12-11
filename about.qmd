@@ -1,10 +1,32 @@
 ---
-title: "About"
+title: "Kontakt"
 ---
 
-# Who we are
+# Kontaktoplysninger
 
-PICTURES
 
-PEOPLE
+Kontaktpersoner
 
+[![Caption](Tina.jpg)](https://quarto.org)
+
+Projektkoordinator og kontaktperson for Region Midtjylland
+Tina Quist
+Mail: tina.quist@rm.dk
+tlf. 2434 6347
+
+[![Caption](julie.jpg)](https://quarto.org)
+
+Kontaktperson for Region Syddanmark
+Julie Dyrgaard
+mail: Julie.Dyrgaard@rsyd.dk
+tlf. 2434 8707 
+
+[![Caption](Janne.jpg)](https://quarto.org)
+
+Kontaktperson for Region Sjælland
+Janne Kunchel Lorenzen
+mail: jalor@regionsjaelland.dk
+tlf. 9357 6807
+
+
+ 
