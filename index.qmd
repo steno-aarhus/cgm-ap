@@ -56,45 +56,66 @@ Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region
 
 {{< video URL_TO_VIDEO >}}
 
-## Ofte stillede spørgsmål (FAQ)
+## Ofte stillede spørgsmål
 
-**1. Hvad er inklusions- og eksklusionskriterierne for patienter i projektet?**
+<details>
+<summary>**1. Hvad er inklusions- og eksklusionskriterierne for patienter i projektet?**<summary>
 
 Svar: Patienter skal være over 18 år, have type 2-diabetes, HbA1c > 53 og bruge insulin eller have gavn af at starte behandling. Eksklusionskriterier inkluderer fx gravide, patienter der ikke har mulighed for at up-loade sensordata via deres telefon og patienter der fx bor på plejehjem/bosteder og ikke selv varetager insulinbehandlingen. Kriterierne vil blive præciseret ved introduktionsmødet.
+</details>
 
-**2. Hvordan rekrutteres patienter til projektet?**
+<details>
+<summary>**2. Hvordan rekrutteres patienter til projektet?**<summary>
 
 Svar: Klinikken trækker en liste over patienter med HbA1c >53, der bruger insulin. Listen suppleres med patienter med HbA1c > 53, der kan have gavn af at starte insulinbehandling.
 Klinikken vurderer, ud fra in- og eksklusionskriterierne hvilke patienter der kunne have gavn af at afprøve CGM-sensoren. Klinikken kontakter patienterne og inviterer dem til deltagelse i afprøvningen. Der indhentes mundtligt samtykke til videregivelse af kontaktoplysninger, som noteres i patientens journal.
+</details>
 
-**3. Hvordan registreres og rapporteres data fra projektet?**
+<details>
+<summary>**3. Hvordan registreres og rapporteres data fra projektet?**<summary>
 
 Svar: Lægen skal sikre at behandlingsmål registreres i journalen og at der foretages måling af Hba1c til ca. tid 6 mdr. og tid 12 mdr. Ved projektets afslutning skal data videregives til SDCA via et patientspecifikt link til REDCap samt via AGP-rapporter, der sendes med sikker post.
+</details>
 
-**4. Hvor meget tid kræver projektet af klinikken?**
+<details>
+<summary>**4. Hvor meget tid kræver projektet af klinikken?**<summary>
 
 Svar: Tidsforbruget omfatter rekruttering af patienter, deltagelse i introduktionsmøde, samt dataregistrering og rapportering. Den præcise tidsramme afhænger af klinikkens størrelse og antallet af patienter.
+</details>
 
-**5. Hvad sker der, hvis vi ikke når at rekruttere nok patienter?**
+<details>
+<summary>**5. Hvad sker der, hvis vi ikke når at rekruttere nok patienter?**<summary>
 
 Svar: Hvis klinikken ikke når at rekruttere det ønskede antal patienter, vil der være en venteliste. Klinikker på venteliste i den enkelte region kan dermed få mulighed for at deltage, hvis andre klinikker i regionen ikke når deres mål.
+</details>
 
-**6. Hvordan håndteres tekniske problemer med CGM-sensorerne?**
+<details>
+<summary>**6. Hvordan håndteres tekniske problemer med CGM-sensorerne?**<summary>
 
 Svar: Teknisk support vil være tilgængelig gennem projektet. Klinikken vil få instruktioner om, hvordan man kontakter supportteamet ved eventuelle problemer med sensorerne.
+</details>
 
-**7. Er der nogen omkostninger for klinikken?**
+<details>
+<summary>**7. Er der nogen omkostninger for klinikken?**<summary>
 
 Svar: Der er ingen omkostninger for klinikken for selve CGM-sensorerne, og der vil blive givet økonomisk kompensation for ekstra administrative opgaver og dokumentation.
+</details>
 
-**8. Hvordan vil økonomisk kompensation blive udbetalt?**
+<details>
+<summary>**8. Hvordan vil økonomisk kompensation blive udbetalt?**<summary>
+</details>
 
 Svar: Økonomisk kompensation udbetales baseret på antallet af patienter, der deltager i projektet, og dækker tid til rekruttering og dataindsamling. Nærmere detaljer om udbetalingsproceduren vil blive givet i oplæringssmødet og i samarbejdskontrakten.
+</details>
 
-**9. Hvad sker der, når projektperioden er slut?**
+<details>
+<summary>**9. Hvad sker der, når projektperioden er slut?**<summary>
 
-Svar: Når projektperioden er afsluttet, skal alle data overføres til SDCA via REDCap. Klinikkerne skal returnere eller destruere eventuelle resterende sensorer i henhold til de instruktioner, der gives ved projektets afslutning.
+Svar: Når projektperioden er afsluttet, skal alle data overføres til SDCA via REDCap. Klinikkerne skal returnere eller destruere eventuelle resterende sensorer i henhold til de instruktioner, der gives ved projektets afslutning. 
+</details>
 
-**10. Hvordan kan projektkoordinatoren kontaktes, hvis vi har spørgsmål undervejs?**
+<details>
+<summary>**10. Hvordan kan projektkoordinatoren kontaktes, hvis vi har spørgsmål undervejs?**<summary>
 
 Svar: I kan kontakte projektkoordinator Tina Quist via e-mail på tina.quist@rm.dk eller telefonisk på 24 34 63 47. Tina er tilgængelig for at besvare spørgsmål og tilbyde støtte gennem hele projektet.
+</details>
