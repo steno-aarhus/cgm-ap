@@ -2,31 +2,45 @@
 title: "Kontakt"
 ---
 
-# Kontaktoplysninger
+```{=html}
+<style>
+.profile-picture {
+  display: inline-block;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
 
+figcaption {
+  text-align: center;
+}
+</style>
+```
+
+# Kontaktoplysninger
 
 Kontaktpersoner
 
-[![Tina Quist](Tina.jpg)](_extensions/steno-aarhus/sdca-theme/images)
+::: {layout-ncol="2"}
+![Tina Quist](/images/tina.jpg){.profile-picture}
 
-Projektkoordinator og kontaktperson for Region Midtjylland
-Tina Quist
-Mail: tina.quist@rm.dk
+Projektkoordinator og kontaktperson for Region Midtjylland\
+Tina Quist\
+Mail: tina.quist\@rm.dk\
 tlf. 2434 6347
 
-[![Julie Dyrgaard](julie.jpg)](_extensions/steno-aarhus/sdca-theme/images)
+![Julie Dyrgaard](/images/julie.jpg){.profile-picture}
 
-Kontaktperson for Region Syddanmark
-Julie Dyrgaard
-mail: Julie.Dyrgaard@rsyd.dk
-tlf. 2434 8707 
+Kontaktperson for Region Syddanmark\
+Julie Dyrgaard\
+mail: Julie.Dyrgaard\@rsyd.dk\
+tlf. 2434 8707
 
-[![Janne Kunchel Lorenzen](Janne.jpg)](_extensions/steno-aarhus/sdca-theme/images)
+![Janne Kunchel Lorenzen](/images/janne.jpg){.profile-picture}
 
-Kontaktperson for Region Sjælland
-Janne Kunchel Lorenzen
-mail: jalor@regionsjaelland.dk
+Kontaktperson for Region Sjælland\
+Janne Kunchel Lorenzen\
+mail: jalor\@regionsjaelland.dk\
 tlf. 9357 6807
-
-
- 
+:::
