@@ -1,10 +1,32 @@
 ---
-title: "About"
+title: "Kontakt"
 ---
 
-# Who we are
+# Kontaktoplysninger
 
-PICTURES
 
-PEOPLE
+Kontaktpersoner
 
+[![Tina Quist](Tina.jpg)](_extensions/steno-aarhus/sdca-theme/images)
+
+Projektkoordinator og kontaktperson for Region Midtjylland
+Tina Quist
+Mail: tina.quist@rm.dk
+tlf. 2434 6347
+
+[![Julie Dyrgaard](julie.jpg)](_extensions/steno-aarhus/sdca-theme/images)
+
+Kontaktperson for Region Syddanmark
+Julie Dyrgaard
+mail: Julie.Dyrgaard@rsyd.dk
+tlf. 2434 8707 
+
+[![Janne Kunchel Lorenzen](Janne.jpg)](_extensions/steno-aarhus/sdca-theme/images)
+
+Kontaktperson for Region Sjælland
+Janne Kunchel Lorenzen
+mail: jalor@regionsjaelland.dk
+tlf. 9357 6807
+
+
+ 
