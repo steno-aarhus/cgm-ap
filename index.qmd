@@ -4,20 +4,13 @@ title: "National afprøvning af glukosesensorer til type 2-diabetes: Afprøvning
 
 ## Om Projektet
 
-Sammen med ca. 50 klinikker fra Region Midtjylland, Region Syddanmark og
-Region Sjælland afprøvers brugen af Continuous Glucose Monitoring (CGM)
-sensorer til patienter med type 2-diabetes (T2D), der bruger insulin og
-har HbA1c \> 53 mmol/mol.
+Projektet er et delprojekt i en national storskala afprøvning af glukosesensorer til personer med type 2-diabetes; "National Forsøgsordning med glukosesensorer til type-2 diabetes", iværksat i henhold til aftalen "Mere behandling i eget hjem" mellem Regeringen, Danske Regioner og Kommunernes Landsforening. Projektet sker i et samarbejde mellem Steno Diabetes Center Aarhus, Steno Diabetes Center Sjælland og Steno Diabetes Center Odense.
 
-Formålet med projektet er at afdække værdien af at anvende
-blodsukkersensorer som hjemmemålingsudstyr i almen praksis, med fokus på
-at forbedre blodsukkerreguleringen, styrke patienternes egenomsorg, samt
-øge tryghed og tilfredshed med behandlingen. Derudover undersøges, om
-brugen af hjemmemålingsudstyr kan reducere behovet for fysiske kontakter
-mellem patienter og sundhedspersonale.
+Sammen med ca. 50 klinikker fra Region Midtjylland, Region Syddanmark og Region Sjælland afprøves brugen af Continuous Glucose Monitoring (CGM) sensorer til patienter med type 2-diabetes (T2D), der bruger insulin og har HbA1c > 53 mmol/mol. 
 
-Dette projekt sigter mod at forbedre behandlingen af type 2-diabetes ved
-at integrere ny teknologi i den daglige kliniske praksis.
+Formålet med projektet er at afdække værdien af at anvende blodsukkersensorer som hjemmemålingsudstyr i almen praksis, med fokus på at forbedre blodsukkerreguleringen, styrke patienternes egenomsorg, samt øge tryghed og tilfredshed med behandlingen. Derudover undersøges, om brugen af hjemmemålingsudstyr kan reducere behovet for fysiske kontakter mellem patienter og sundhedspersonale.
+
+Projektet sigter mod at forbedre behandlingen af type 2-diabetes ved at integrere ny teknologi i den daglige kliniske praksis.
 
 ### Fordele ved at deltage:
 
