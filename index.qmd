@@ -60,35 +60,6 @@ Som deltager i projektet får din klinik:
     to uger før en aftalt konsultation.
 -   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
 
-### Rekruttering og registrering
-
--   Klinikken finder målgruppen ved at trække en liste over T2D
-    patienter med HbA1c \>53, som bruger insulin. Listen suppleres med
-    patienter med HbA1c \> 53, der kan have gavn af at starte
-    insulinbehandling.
--   Den praktiserende læge vurderer i samarbejde med patienten, om
-    patienten er egnet til at deltage i projektet, baseret på definerede
-    inklusions- og eksklusionskriterier.
--   Før videregivelse af oplysninger om patienter der ønsker at deltage,
-    indhentes mundtligt samtykke til videregivelse af
-    kontaktoplysninger. Samtykke noteres i patientens journal.
--   Det skal registreres, hvor mange patienter der er i målgruppen, hvor
-    mange der efter vurdering af inklusions- og eksklusionskriterier
-    bliver inviteret, og hvor mange der slutteligt siger ja til at
-    deltage.
--   Klinikken skal sikre måling af HbA1c-niveauer ved baseline samt ved
-    6 og 12 måneder samt registrere behandlingsmål.
--   Data overføres til SDCA via REDCap ved projektets afslutning samt
-    ved AGP-rapporter der sendes via sikker post.
-
-### Sådan anvendes sensorerne
-
--   CGM-sensorer anvendes kontinuerligt, indtil behandlingsmålet (HbA1c
-    \< 53 eller individuelt fastsat niveau) er opnået. Dog minimum 6
-    måneder.
--   Efter opnåelse af behandlingsmålet anvendes CGM-sensoren fortsat i
-    to uger før en aftalt konsultation.
--   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
 
 ### Tilmelding af lægeklinik
 
