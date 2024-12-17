@@ -19,7 +19,7 @@ mellem patienter og sundhedspersonale.
 Dette projekt sigter mod at forbedre behandlingen af type 2-diabetes ved
 at integrere ny teknologi i den daglige kliniske praksis.
 
-### Fordele ved at deltage
+### Fordele ved at deltage:
 
 Som deltager i projektet får din klinik:
 
@@ -61,7 +61,7 @@ Som deltager i projektet får din klinik:
 -   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
 
 
-### Tilmelding af lægeklinik
+## Tilmelding af lægeklinik
 
 Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i
 Region Midtjylland, Region Syddanmark og Region Sjælland. Tilmelding
