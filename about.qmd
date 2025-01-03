@@ -23,7 +23,7 @@ figcaption {
 Kontaktpersoner
 
 ::: {layout-ncol="2"}
-![Tina Quist](/images/tina.jpg){.profile-picture}
+![Tina Quist](/images/Tina maj_farve.jpg){.profile-picture}
 
 Projektkoordinator og kontaktperson for Region Midtjylland\
 Tina Quist\
