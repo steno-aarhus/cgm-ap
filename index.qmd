@@ -28,7 +28,9 @@ at integrere ny teknologi i den daglige kliniske praksis.
     to uger før en aftalt konsultation.
 -   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
 
-Projektets flow:
+### Projektets flow:
+Efter oplæringsmødet følger projektet nedenstående visualisering i almen praksis:
+
 ![](images/projektflow.jpg)
 
 ### Hvad får jeres klinik ud af at deltage?
