@@ -50,17 +50,16 @@ Som deltager i projektet får jeres klinik:
 -   Den praktiserende læge vurderer i samarbejde med patienten, om
     patienten er egnet til at deltage i projektet, baseret på definerede
     inklusions- og eksklusionskriterier.
--   Før videregivelse af oplysninger om patienter der ønsker at deltage,
+-   Før videregivelse af oplysninger om patienter, der ønsker at deltage,
     indhentes mundtligt samtykke til videregivelse af
     kontaktoplysninger. Samtykke noteres i patientens journal.
--   Det skal registreres, hvor mange patienter der er i målgruppen, hvor
+-   Det registreres, hvor mange patienter der er i målgruppen, hvor
     mange der efter vurdering af inklusions- og eksklusionskriterier
     bliver inviteret, og hvor mange der slutteligt siger ja til at
     deltage.
 -   Klinikken skal sikre måling af HbA1c-niveauer ved baseline samt ved
     6 og 12 måneder samt registrere behandlingsmål.
--   Data overføres til SDCA via REDCap ved projektets afslutning samt
-    ved AGP-rapporter der sendes via sikker post.
+-   Data overføres til Steno Diabetes Center Aarhus på tre tidspunkter. Data overføres dels ved indtastning i REDCap og dels ved AGP-rapporter der sendes via sikker post.
 
 
 ### Tilmelding af jeres lægeklinik
@@ -76,9 +75,9 @@ jer derfor oplæringssmødet så hurtigt som muligt.
 
 </iframe>
 
-## Video
+## Erfaringer fra pilotprojekt
 
-{{<(https://region-midtjylland.23video.com/secret/107716498/60d4a696d545151884fcdb2d25f0f8fd)>}}
+{{< src="https://region-midtjylland.23video.com/secret/107716498/60d4a696d545151884fcdb2d25f0f8fd">}}
 
 ## Ofte stillede spørgsmål
 
@@ -181,7 +180,7 @@ givet i oplæringssmødet og i samarbejdskontrakten.
 
 <summary>**9. Hvad sker der, når projektperioden er slut?**</summary>
 
-Svar: Når projektperioden er afsluttet, skal alle data overføres til
+Svar: Når projektperioden er afsluttet, skal alle de sidste data overføres til
 Steno Dibetes Center Aarhus via REDCap. Klinikkerne skal returnere eller destruere eventuelle
 resterende sensorer i henhold til de instruktioner, der gives ved
 projektets afslutning.
