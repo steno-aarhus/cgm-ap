@@ -19,18 +19,27 @@ mellem patienter og sundhedspersonale.
 Dette projekt sigter mod at forbedre behandlingen af type 2-diabetes ved
 at integrere ny teknologi i den daglige kliniske praksis.
 
-### Fordele ved at deltage
+### Sådan anvendes sensorerne:
 
-Som deltager i projektet får din klinik:
+-   CGM-sensorer anvendes kontinuerligt, indtil behandlingsmålet (HbA1c
+    \< 53 eller individuelt fastsat niveau) er opnået. Dog minimum 6
+    måneder.
+-   Efter opnåelse af behandlingsmålet anvendes CGM-sensoren fortsat i
+    to uger før en aftalt konsultation.
+-   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
 
--   Gratis glukosesensorer i op til 12 måneder til jeres patienter med
-    T2D, der bruger insulin.
--   Økonomisk kompensation for ekstra administrative opgaver og
-    dokumentation.
--   Mulighed for at være frontløber i anvendelsen af ny teknologi til
-    diabetesbehandling.
+Projektets flow:
+![](images/projektflow.jpg)
 
-### Rekruttering og registrering:
+### Hvad får jeres klinik ud af at deltage?
+
+Som deltager i projektet får jeres klinik:
+
+-   Gratis glukosesensorer i op til 12 måneder til inkluderede patienter.
+-   Økonomisk kompensation for til rekruttering og dataindsamling.
+-   Mulighed for at være blandt de første til at anvende glukosesensorer i behandlingen af type 2-diabetes.
+
+### Sådan rekrutterer og registerer lægeklinikken deltagere i projektet
 
 -   Klinikken finder målgruppen ved at trække en liste over T2D
     patienter med HbA1c \>53, som bruger insulin. Listen suppleres med
@@ -51,22 +60,13 @@ Som deltager i projektet får din klinik:
 -   Data overføres til SDCA via REDCap ved projektets afslutning samt
     ved AGP-rapporter der sendes via sikker post.
 
-### Sådan anvendes sensorerne:
 
--   CGM-sensorer anvendes kontinuerligt, indtil behandlingsmålet (HbA1c
-    \< 53 eller individuelt fastsat niveau) er opnået. Dog minimum 6
-    måneder.
--   Efter opnåelse af behandlingsmålet anvendes CGM-sensoren fortsat i
-    to uger før en aftalt konsultation.
--   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
-
-
-### Tilmelding af lægeklinik
+### Tilmelding af jeres lægeklinik
 
 Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i
 Region Midtjylland, Region Syddanmark og Region Sjælland. Tilmelding
 sker efter først-til-mølle-princippet. For at sikre jeres plads, tilmeld
-jer derfor introduktionsmødet så hurtigt som muligt.
+jer derfor oplæringssmødet så hurtigt som muligt.
 
 ## Tilmelding
 
@@ -76,16 +76,16 @@ jer derfor introduktionsmødet så hurtigt som muligt.
 
 ## Video
 
-{{< (https://region-midtjylland.23video.com/secret/107716498/60d4a696d545151884fcdb2d25f0f8fd)  >}}
+{{<(https://region-midtjylland.23video.com/secret/107716498/60d4a696d545151884fcdb2d25f0f8fd)>}}
 
 ## Ofte stillede spørgsmål
 
 <details>
 
 <summary>**1. Hvad er inklusions- og eksklusionskriterierne for
-patienter i projektet?**</summary>
+deltagere i projektet?**</summary>
 
-Svar: Patienter skal være over 18 år, have type 2-diabetes, HbA1c \> 53
+Deltagere skal være over 18 år, have type 2-diabetes, HbA1c \> 53
 og bruge insulin eller have gavn af at starte behandling.
 Eksklusionskriterier inkluderer fx gravide, patienter der ikke har
 mulighed for at up-loade sensordata via deres telefon og patienter der
@@ -98,11 +98,11 @@ Kriterierne vil blive præciseret ved introduktionsmødet.
 
 <summary>**2. Hvordan rekrutteres patienter til projektet?**</summary>
 
-Svar: Klinikken trækker en liste over patienter med HbA1c \>53, der
+Klinikken trækker en liste over patienter med HbA1c \>53, der
 bruger insulin. Listen suppleres med patienter med HbA1c \> 53, der kan
 have gavn af at starte insulinbehandling. Klinikken vurderer, ud fra in-
 og eksklusionskriterierne hvilke patienter der kunne have gavn af at
-afprøve CGM-sensoren. Klinikken kontakter patienterne og inviterer dem
+afprøve CGM-sensoren. Klinikken kontakter potentielle deltagere og inviterer dem
 til deltagelse i afprøvningen. Der indhentes mundtligt samtykke til
 videregivelse af kontaktoplysninger, som noteres i patientens journal.
 
@@ -113,9 +113,9 @@ videregivelse af kontaktoplysninger, som noteres i patientens journal.
 <summary>**3. Hvordan registreres og rapporteres data fra
 projektet?**</summary>
 
-Svar: Lægen skal sikre at behandlingsmål registreres i journalen og at
-der foretages måling af Hba1c til ca. tid 6 mdr. og tid 12 mdr. Ved
-projektets afslutning skal data videregives til SDCA via et
+Klinikken skal sikre, at behandlingsmål registreres i journalen og at
+der foretages måling af Hba1c til ca. tid 6 mdr. og tid 12 mdr efter påsætning af sensor. 
+Ved projektets afslutning skal data videregives til projektkoordinator via et
 patientspecifikt link til REDCap samt via AGP-rapporter, der sendes med
 sikker post.
 
@@ -125,18 +125,17 @@ sikker post.
 
 <summary>**4. Hvor meget tid kræver projektet af klinikken?**</summary>
 
-Svar: Tidsforbruget omfatter rekruttering af patienter, deltagelse i
-introduktionsmøde, samt dataregistrering og rapportering. Den præcise
+Tidsforbruget omfatter deltagelse i oplæringsmøde, identifikation, invitation og inklusion af deltagere samt dataregistrering og rapportering. Den præcise
 tidsramme afhænger af klinikkens størrelse og antallet af patienter.
 
 </details>
 
 <details>
 
-<summary>**5. Hvad sker der, hvis vi ikke når at rekruttere nok
+<summary>**5. Hvad sker der, hvis vi ikke kan rekruttere nok
 patienter?**</summary>
 
-Svar: Hvis klinikken ikke når at rekruttere det ønskede antal patienter,
+Hvis klinikken ikke kan rekruttere det ønskede antal patienter,
 vil der være en venteliste. Klinikker på venteliste i den enkelte region
 kan dermed få mulighed for at deltage, hvis andre klinikker i regionen
 ikke når deres mål.
@@ -148,7 +147,7 @@ ikke når deres mål.
 <summary>**6. Hvordan håndteres tekniske problemer med
 CGM-sensorerne?**</summary>
 
-Svar: Teknisk support vil være tilgængelig gennem projektet. Klinikken
+Teknisk support vil være tilgængelig gennem projektet. Klinikken
 vil få instruktioner om, hvordan man kontakter supportteamet ved
 eventuelle problemer med sensorerne.
 
@@ -158,7 +157,7 @@ eventuelle problemer med sensorerne.
 
 <summary>**7. Er der nogen omkostninger for klinikken?**</summary>
 
-Svar: Der er ingen omkostninger for klinikken for selve CGM-sensorerne,
+Der er ingen omkostninger for klinikken for selve CGM-sensorerne,
 og der vil blive givet økonomisk kompensation for ekstra administrative
 opgaver og dokumentation.
 
@@ -170,8 +169,8 @@ opgaver og dokumentation.
 udbetalt?**</summary>
 
 Svar: Økonomisk kompensation udbetales baseret på antallet af patienter,
-der deltager i projektet, og dækker tid til rekruttering og
-dataindsamling. Nærmere detaljer om udbetalingsproceduren vil blive
+der deltager i projektet, og dækker tid til blandt andet rekruttering og
+dataindsamling. Den økonomiske kompensation er ca. 3200 pr inkluderet deltager, samt honnorar for deltagelse i oplærings- og afslutningsmøde. Nærmere detaljer om udbetalingsproceduren vil blive
 givet i oplæringssmødet og i samarbejdskontrakten.
 
 </details>
@@ -181,7 +180,7 @@ givet i oplæringssmødet og i samarbejdskontrakten.
 <summary>**9. Hvad sker der, når projektperioden er slut?**</summary>
 
 Svar: Når projektperioden er afsluttet, skal alle data overføres til
-SDCA via REDCap. Klinikkerne skal returnere eller destruere eventuelle
+Steno Dibetes Center Aarhus via REDCap. Klinikkerne skal returnere eller destruere eventuelle
 resterende sensorer i henhold til de instruktioner, der gives ved
 projektets afslutning.
 
