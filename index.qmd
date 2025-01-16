@@ -77,7 +77,7 @@ jer derfor oplæringssmødet så hurtigt som muligt.
 
 ## Erfaringer fra pilotprojekt
 
-{{< src="https://region-midtjylland.23video.com/secret/107716498/60d4a696d545151884fcdb2d25f0f8fd">}}
+{{< "https://region-midtjylland.23video.com/secret/107716498/60d4a696d545151884fcdb2d25f0f8fd">}}
 
 ## Ofte stillede spørgsmål
 
