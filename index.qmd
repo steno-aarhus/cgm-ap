@@ -19,7 +19,7 @@ mellem patienter og sundhedspersonale.
 Dette projekt sigter mod at forbedre behandlingen af type 2-diabetes ved
 at integrere ny teknologi i den daglige kliniske praksis.
 
-### Sådan anvendes sensorerne:
+### Sådan anvendes sensorerne
 
 -   CGM-sensorer anvendes kontinuerligt, indtil behandlingsmålet (HbA1c
     \< 53 eller individuelt fastsat niveau) er opnået. Dog minimum 6
@@ -28,14 +28,14 @@ at integrere ny teknologi i den daglige kliniske praksis.
     to uger før en aftalt konsultation.
 -   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
 
-### Projektets flow:
+### Projektets flow
 Efter oplæringsmødet følger projektet nedenstående visualisering i almen praksis:
 
 ![](images/projektflow.jpg)
 
 ### Hvad får jeres klinik ud af at deltage?
 
-Som deltager i projektet får jeres klinik:
+Som deltager i projektet får jeres klinik
 
 -   Gratis glukosesensorer i op til 12 måneder til inkluderede patienter.
 -   Økonomisk kompensation for til rekruttering og dataindsamling.
