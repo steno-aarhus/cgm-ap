@@ -201,9 +201,9 @@ for at besvare spørgsmål og tilbyde støtte gennem hele projektet.
 </details>
 
 ## Den nationale forsøgsordning
-Projektet er et delprojekt i en national storskala afprøvning af glukosesensorer til personer med type 2-diabetes; "National Forsøgsordning med glukosesensorer til type-2 diabetes", iværksat i henhold til aftalen "Mere behandling i eget hjem" mellem Regeringen, Danske Regioner og Kommunernes Landsforening. Projektet sker i et samarbejde mellem Steno Diabetes Center Aarhus, Steno Diabetes Center Sjælland og Steno Diabetes Center Odense. Du kan læse mere om den nationale forsøgsordning [her]<>
+Projektet er et delprojekt i en national storskala afprøvning af glukosesensorer til personer med type 2-diabetes; "National Forsøgsordning med glukosesensorer til type-2 diabetes", iværksat i henhold til aftalen "Mere behandling i eget hjem" mellem Regeringen, Danske Regioner og Kommunernes Landsforening. Projektet sker i et samarbejde mellem Steno Diabetes Center Aarhus, Steno Diabetes Center Sjælland og Steno Diabetes Center Odense. Du kan læse mere om den nationale forsøgsordning [her]()
 
 ## Kontakt
-Du kan finde kontaktoplysninger til projektkoordinator og de regionale kontaktperseoner [her]<about.qmd>
+Du kan finde kontaktoplysninger til projektkoordinator og de regionale kontaktperseoner [her](about.qmd)
 
 
