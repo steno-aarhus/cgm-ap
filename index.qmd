@@ -201,4 +201,4 @@ for at besvare spørgsmål og tilbyde støtte gennem hele projektet.
 </details>
 
 ## Kontakt
-Du kan finde kontaktoplysninger til projektkoordinator og de regionale kontaktperseoner (her) <about.qmd>
+Du kan finde kontaktoplysninger til projektkoordinator og de regionale kontaktperseoner [her]<about.qmd>
