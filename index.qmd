@@ -58,7 +58,7 @@ Som deltager i projektet får jeres klinik
 -   Det registreres, hvor mange patienter der er i målgruppen, hvor
     mange der efter vurdering af inklusions- og eksklusionskriterier
     bliver inviteret, og hvor mange der slutteligt siger ja til at
-    deltage.
+    deltage. Vi forventer ca. 10 invitationer og ca. 7 inkluderede deltagere pr. lægekapacitet.
 -   Klinikken skal sikre måling af HbA1c-niveauer ved baseline samt ved
     6 og 12 måneder samt registrere behandlingsmål.
 -   Data overføres til Steno Diabetes Center Aarhus på tre tidspunkter. Data overføres dels ved indtastning i REDCap og dels ved AGP-rapporter der sendes via sikker post.
