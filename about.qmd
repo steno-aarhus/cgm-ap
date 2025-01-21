@@ -18,9 +18,7 @@ figcaption {
 </style>
 ```
 
-# Kontaktoplysninger
-
-Kontaktpersoner
+# Kontaktpersoner
 
 ::: {layout-ncol="2"}
 ![Tina Quist](/images/Tina maj_farve.jpg){.profile-picture}
