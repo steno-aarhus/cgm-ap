@@ -61,13 +61,13 @@ Som deltager i projektet får jeres klinik
     deltage. Vi forventer ca. 10 invitationer og ca. 7 inkluderede deltagere pr. lægekapacitet.
 -   Klinikken skal sikre måling af HbA1c-niveauer ved baseline samt ved
     6 og 12 måneder samt registrere behandlingsmål.
--   Data overføres til Steno Diabetes Center Aarhus på tre tidspunkter. Data overføres dels ved indtastning i REDCap og dels ved AGP-rapporter der sendes via sikker post.
+-   Data overføres til Steno Diabetes Center Aarhus på tre tidspunkter. Data overføres dels ved indtastning i REDCap og dels ved AGP-rapporter, der sendes via sikker post.
 
 ## Tilmelding
 Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i
 Region Midtjylland, Region Syddanmark og Region Sjælland. Tilmelding
-sker efter først-til-mølle-princippet. For at sikre jeres plads, tilmeld
-jer derfor oplæringssmødet så hurtigt som muligt.
+sker efter først-til-mølle-princippet. 
+Tilmeld jer oplæringssmødet så hurtigt som muligt, så I kan sikre jeres praksis en plads i projektet. 
 
 <iframe src="https://www.survey-xact.dk/LinkCollector?key=NAF5AS23JP16" width="100%" height="1000px" style="border: 6px solid black">
 
