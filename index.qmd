@@ -75,7 +75,7 @@ Tilmeld jer oplæringssmødet så hurtigt som muligt, så I kan sikre jeres prak
 
 ## Erfaringer fra pilotprojekt
 
-{{< video https://region-midtjylland.23video.com/v.ihtml/player.html?token=60d4a696d545151884fcdb2d25f0f8fd&showBrowse=0&showSharing=0&socialSharing=0&source=site&photo%5fid=107716498 >}}
+{{< video https://region-midtjylland.23video.com/v.ihtml/player.html?token=60d4a696d545151884fcdb2d25f0f8fd&source=embed&photo%5fid=107716498&endOn= >}}
 
 ## Ofte stillede spørgsmål
 
