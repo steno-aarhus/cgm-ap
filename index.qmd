@@ -28,7 +28,7 @@ at integrere ny teknologi i den daglige kliniske praksis.
     to uger før en aftalt konsultation.
 -   En patient kan maksimalt anvende en CGM-sensor i 12 måneder.
 
-### Projektets flow
+### Projektets forløb i almen praksis
 Efter oplæringsmødet følger projektet nedenstående figur:
 
 
@@ -67,7 +67,7 @@ Som deltager i projektet får jeres klinik
 Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland. Tilmelding sker efter først-til-mølle-princippet. 
 Tilmeld jer oplæringssmødet så hurtigt som muligt, så I kan sikre jeres praksis en plads i projektet. 
 
-Udfyld formularen for at tilmelde din lægepraksis til oplæring i projektet "Afprøvning af sensorer i Almen Praksis".
+Udfyld formularen for at tilmelde jeres lægepraksis til oplæring i projektet "Afprøvning af sensorer i Almen Praksis".
 Vi bruger oplysningerne til at registrere tilmeldinger og kontakte jer vedrørende møderne.
 Ved at tilmelde dig accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
 
