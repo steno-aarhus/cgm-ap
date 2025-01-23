@@ -5,7 +5,7 @@ title: "National afprøvning af glukosesensorer til type 2-diabetes: Afprøvning
 ## Om Projektet
 
 Sammen med ca. 50 klinikker fra Region Midtjylland, Region Syddanmark og
-Region Sjælland afprøvers brugen af Continuous Glucose Monitoring (CGM)
+Region Sjælland afprøves brugen af Continuous Glucose Monitoring (CGM)
 sensorer til patienter med type 2-diabetes (T2D), der bruger insulin og
 har HbA1c \> 53 mmol/mol.
 
@@ -64,10 +64,12 @@ Som deltager i projektet får jeres klinik
 -   Data overføres til Steno Diabetes Center Aarhus på tre tidspunkter. Data overføres dels ved indtastning i REDCap og dels ved AGP-rapporter, der sendes via sikker post.
 
 ## Tilmelding
-Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i
-Region Midtjylland, Region Syddanmark og Region Sjælland. Tilmelding
-sker efter først-til-mølle-princippet. 
+Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland. Tilmelding sker efter først-til-mølle-princippet. 
 Tilmeld jer oplæringssmødet så hurtigt som muligt, så I kan sikre jeres praksis en plads i projektet. 
+
+Udfyld formularen for at tilmelde din lægepraksis til oplæring i projektet "Afprøvning af sensorer i Almen Praksis".
+Vi bruger oplysningerne til at registrere tilmeldinger og kontakte jer vedrørende møderne.
+Ved at tilmelde dig accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
 
 <iframe src="https://open.rsyd.dk/redcap/surveys/?s=WW7AK9WDTXEDRRD8" width="100%" height="1000px" style="border: 6px solid black">
 
