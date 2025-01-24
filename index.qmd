@@ -31,7 +31,7 @@ Efter oplæringsmødet følger projektet nedenstående figur:
 
 ![Figur over projektets forløb i almen praksis](images/projektflow_2.jpg)
 
-Du kan læse mere om opgaverne her på siden, under punktet "ofte stillede spørgsmål" [her](https://steno-aarhus.github.io/cgm-ap/#ofte-stillede-sp%C3%B8rgsm%C3%A5l)
+Du kan læse mere om opgaverne her på siden, under punktet "Ofte stillede spørgsmål" [her](https://steno-aarhus.github.io/cgm-ap/#ofte-stillede-sp%C3%B8rgsm%C3%A5l)
 
 ### Hvad får jeres klinik ud af at deltage?
 
@@ -67,6 +67,7 @@ Tilmelding sker efter først-til-mølle-princippet.
 
 Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis til projektets oplæringsmøder.
 Vi bruger de indtastede oplysninger til at registrere tilmeldinger og kontakte jer vedrørende oplæringsmøderne.
+
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
 
 <iframe src="https://open.rsyd.dk/redcap/surveys/?s=WW7AK9WDTXEDRRD8" width="100%" height="1000px" style="border: 6px solid black">
@@ -131,6 +132,7 @@ sikker post.
 Tidsforbruget omfatter deltagelse i oplæringsmøde, identifikation, invitation og inklusion af deltagere samt dataregistrering og rapportering. 
 Klinikken kan også blive inviteret til at deltage i et interview om projektet.
 Den præcise tidsramme afhænger af klinikkens størrelse og antallet af patienter.
+
 Nedenstående figur illustrerer aktiviteter, der skal varetages af de tilmeldte lægeklinikker.
 
 ![Figur over projektets forløb i almen praksis](images/projektflow_2.jpg)
