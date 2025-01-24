@@ -134,13 +134,13 @@ Nedenstående figur illustrerer aktiviteter, der skal varetages af de tilmeldte 
 
 ![Figur over projektets forløb i almen praksis](images/projektflow_2.jpg)
  
-##Målgruppen identificeres
+*Målgruppen identificeres*
 Potentielle deltagere identificeres via praksissystemet. I systemet oprettes lister over patienter som har type 2-diabetes, Hba1c >53 og som er i insulinbehandling eller som har gavn af at begynde behandling. 
 Invitere til projektet
 -	Potentielle deltagere inviteres via brevpost (forventet ca. 10 patienter pr. lægekapacitet), med opfølgende opkald efter 2 uger.
 -	Interesserede patienter aftaler en konsultation og giver mundtligt samtykke til videregivelse af navn, cpr.nr og insulinbehandling ja/nej. 
 
-##Tilmelde deltager 
+*Tilmelde deltager* 
 Oplysningerne videregives til projektkoordinator, som sender materiale til deltageren.   
 Inklusionskonsultation
 -	Det sikres, at patienten forstår hvad det indebærer at deltage, og samtykkeerklæring underskrives.
@@ -150,15 +150,11 @@ Inklusionskonsultation
 •	Venteliste: Tid aftales til påsætningskonsultation om 6 mdr.
 Sensordata anvendes aktivt i behandlingen, mens deltageren benytter sensor.
 
-##Påsætningskonsultation
+*Påsætningskonsultation*
 Deltagerne på venteliste får påsat sensor. Sensordata anvendes aktivt i behandlingen, mens deltageren benytter sensor.
 
-##Dataindsamling
+*Dataindsamling*
 Almen praksis videregiver oplysninger efter ca. 6, 12 og 18 måneder/ved projektets afslutning. Oplysninger videregives via patientspecifikt link til REDCap og via sikker post (VIRK).
-
-
-
-
 </details>
 
 <details>
