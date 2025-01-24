@@ -16,6 +16,8 @@ at forbedre blodsukkerreguleringen, styrke patienternes egenomsorg, samt
 brugen af hjemmemålingsudstyr kan reducere behovet for fysiske kontakter
 mellem patienter og sundhedspersonale.
 
+Projektet er anmeldt som forskningsprojekt hos VMK og er designet som et pragmatisk RCT-studie med venteliste. 
+
 ### Sådan anvendes sensorerne
 
 -   CGM-sensorer anvendes kontinuerligt, indtil behandlingsmålet (HbA1c
