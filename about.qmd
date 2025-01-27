@@ -41,4 +41,12 @@ Kontaktperson for Region Sjælland\
 Janne Kunchel Lorenzen\
 mail: jalor\@regionsjaelland.dk\
 tlf. 9357 6807
+
+![Annelli Sandbæk](/images/annelli.jpg){.profile-picture}
+
+PI for projektet, Professor og overlæge\
+Annelli Sandbæk\
+mail: anesnd\@rm.dk\
+tlf. 2128 2073
+
 :::
