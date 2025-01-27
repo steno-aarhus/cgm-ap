@@ -42,7 +42,7 @@ Janne Kunchel Lorenzen\
 mail: jalor\@regionsjaelland.dk\
 tlf. 9357 6807
 
-![Annelli Sandbæk](/images/annelli.jpg){.profile-picture}
+![Annelli Sandbæk](/images/Annelli.jpg){.profile-picture}
 
 PI for projektet, Professor og overlæge\
 Annelli Sandbæk\
