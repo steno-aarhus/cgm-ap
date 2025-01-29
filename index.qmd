@@ -79,9 +79,10 @@ Din tilmeldelse er først registreret når du har trykket på "Indsend". Du vil 
 </iframe>
 
 ## Erfaringer fra pilotprojekt med sensorer
-
+:::hidden
 Se video med erfaringer fra pilotprojekt med glukosesensorer [her](https://region-midtjylland.23video.com/v.ihtml/player.html?token=60d4a696d545151884fcdb2d25f0f8fd&source=embed&photo%5fid=107716498&endOn=)
-
+:::
+Se video med erfaringer fra pilotprojekt med glukosesensorer her:
 {{< video "https://vimeo.com/1051491554/e8c51a8005" >}}
 
 ## Ofte stillede spørgsmål
