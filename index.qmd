@@ -68,11 +68,10 @@ Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region
 Tilmelding sker efter først-til-mølle-princippet. 
 
 Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis til projektets oplæringsmøder.
-Vi bruger de indtastede oplysninger til at registrere tilmeldinger og kontakte jer vedrørende oplæringsmøderne.
 
-Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
+Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet. Vi bruger de indtastede oplysninger til at registrere tilmeldinger og kontakte jer vedrørende oplæringsmøderne.
 
-Din tilmelding er først registreret, når du har trykket på "Indsend" og du får beskeden: "Tak for din tilmelding". 
+Tilmeldingen er først registreret, når du har trykket på "Indsend" og du får beskeden: "Tak for din tilmelding". 
 Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra kontaktpersonen i din region.
 
 <iframe src="https://open.rsyd.dk/redcap/surveys/?s=WW7AK9WDTXEDRRD8" width="100%" height="1000px" style="border: 6px solid black">
