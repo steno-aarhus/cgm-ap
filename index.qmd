@@ -66,7 +66,7 @@ Som deltager i projektet får jeres klinik
 ## Tilmelding
 Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland. 
 
-Opdateret: Det er ikke længere muligt at tilmelde sig projektets venteliste. 
+**Opdateret:** Det er ikke længere muligt at tilmelde sig projektets venteliste. 
 
 :::hidden 
 Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis til projektets oplæringsmøder.
