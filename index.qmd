@@ -68,7 +68,8 @@ Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region
 
 Opdateret: Det er ikke længere muligt at tilmelde sig projektets venteliste. 
 
-:::hidden Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis til projektets oplæringsmøder.
+:::hidden 
+Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis til projektets oplæringsmøder.
 
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet. Vi bruger de indtastede oplysninger til at registrere tilmeldinger og kontakte jer vedrørende oplæringsmøderne.
 
@@ -77,7 +78,8 @@ Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra kontaktperson
 
 <iframe src="https://open.rsyd.dk/redcap/surveys/?s=WW7AK9WDTXEDRRD8" width="100%" height="1000px" style="border: 6px solid black">
 
-</iframe> :::
+</iframe> 
+:::
 
 ## Erfaringer fra pilotprojekt med sensorer
 :::hidden
