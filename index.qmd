@@ -41,7 +41,7 @@ Som deltager i projektet får jeres klinik
 
 -   Gratis glukosesensorer i op til 12 måneder til inkluderede patienter.
 -   Mulighed for at være blandt de første til at anvende glukosesensorer i behandlingen af type 2-diabetes.
--   Økonomisk kompensation for til rekruttering og dataindsamling.
+-   Økonomisk kompensation for rekruttering og dataindsamling.
 
 ### Sådan rekrutterer og registerer lægeklinikken deltagere i projektet
 
@@ -65,9 +65,10 @@ Som deltager i projektet får jeres klinik
 
 ## Tilmelding
 Der er plads til at ca. 50 lægeklinikker kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland. 
-Tilmelding sker efter først-til-mølle-princippet. 
 
-Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis til projektets oplæringsmøder.
+Opdateret: Det er ikke længere muligt at tilmelde sig projektets venteliste. 
+
+:::hidden Udfyld tilmeldingsformularen for at tilmelde jeres lægepraksis til projektets oplæringsmøder.
 
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet. Vi bruger de indtastede oplysninger til at registrere tilmeldinger og kontakte jer vedrørende oplæringsmøderne.
 
@@ -76,7 +77,7 @@ Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra kontaktperson
 
 <iframe src="https://open.rsyd.dk/redcap/surveys/?s=WW7AK9WDTXEDRRD8" width="100%" height="1000px" style="border: 6px solid black">
 
-</iframe>
+</iframe> :::
 
 ## Erfaringer fra pilotprojekt med sensorer
 :::hidden
